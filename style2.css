@@ -1,0 +1,21 @@
+body {
+    background-color: darkgrey;
+    margin: 50px;
+    border: 20px;
+    border-color: blueviolet;
+    border-style: dotted;
+    padding: 10px;
+}
+
+h1 {
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+.experiencia {
+    text-align: right;
+}
+
+#endereco {
+    text-align: center;
+}
